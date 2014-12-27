@@ -1,4 +1,5 @@
 lowkeyfred.github.io
 ====================
-除非另有声明，本网站采用<a href=https://creativecommons.org/licenses/by/3.0/cn/>知识共享"署名 3.0 中国大陆</a>"许可协议授权。
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/80x15.png" /></a><br />
+Except where otherwise noted, this work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
 
